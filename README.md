@@ -3,24 +3,14 @@
 [![Jzakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jzakka&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jzakka&layout=compact&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+## ✍️ Problem Solving
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Jzakka)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouse810)](https://solved.ac/mouse810/)
 
-<!--
-**Jzakka/Jzakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 🛠️ Stack
+## 🛠️ Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
