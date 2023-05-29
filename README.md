@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-[![Jzakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jzakka&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jzakka&layout=compact&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Problem Solving
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Jzakka)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouse810)](https://solved.ac/mouse810/)
 
 
 ## 🛠️ Stack
