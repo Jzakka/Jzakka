@@ -18,4 +18,4 @@
 ### 👾 ME
 <a href="https://velog.io/@mouse4786" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:mouse4786@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
-<a href="github.com/Jzakka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Jzakka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
