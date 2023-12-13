@@ -4,7 +4,6 @@
 
 ## ✍️ Problem Solving
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Jzakka)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouse810)](https://solved.ac/mouse810/)
 
 
